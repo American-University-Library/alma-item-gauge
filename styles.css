@@ -1,0 +1,14 @@
+.techAvailContainer {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.techAvailWrapper {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+}
